@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+function module_create_module() {
+    echo "hi"
+}
